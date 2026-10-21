@@ -1,0 +1,42 @@
+PERSONALIZAÇÃO DO GITHUB — DARK FEMININE
+===========================================
+
+ARQUIVOS
+- README.md: modelo para o perfil.
+- README_PROJETO.md: modelo para a página de cada projeto.
+
+PASSO 1 — Descobrir seu username
+Abra seu perfil do GitHub. Se a URL for https://github.com/exemplo, seu username é "exemplo".
+
+PASSO 2 — Criar o repositório especial
+1. Entre em https://github.com/new
+2. Nome do repositório: exatamente seu username.
+3. Marque Public.
+4. Marque Add a README file.
+5. Clique em Create repository.
+Se já existe um repositório com esse nome, abra-o e edite o README.md.
+
+PASSO 3 — Publicar o perfil
+1. Abra README.md no repositório.
+2. Clique no lápis (Edit).
+3. Copie o conteúdo de README.md deste pacote e cole no editor.
+4. Substitua TODAS as ocorrências de SEU_USUARIO pelo seu username real.
+5. Revise os nomes e links dos projetos: só mantenha os que realmente existem.
+6. Clique em Commit changes.
+
+PASSO 4 — Personalizar os projetos
+Em cada repositório que quiser destacar:
+1. Abra ou crie README.md.
+2. Use README_PROJETO.md como modelo.
+3. Troque os placeholders, instruções e tecnologias para corresponder ao projeto real.
+4. Faça commit das alterações.
+
+PASSO 5 — Fixar projetos no perfil
+Abra seu perfil > Customize your pins (ou Customize profile) > selecione até seis repositórios relevantes.
+
+IMPORTANTE
+- GitHub README Stats, linguagens e streak são imagens externas. Podem demorar, falhar por limite de requisições ou ficar indisponíveis.
+- As estatísticas dependem dos dados do seu perfil e dos repositórios públicos; não são métricas de habilidade.
+- O banner usa um serviço externo de SVG. Se não carregar, remova a linha <img ... capsule-render ...>.
+- O GitHub não executa CSS/JavaScript arbitrário no README; animações são feitas por imagens/GIFs hospedados externamente.
+- Não coloque tokens, senhas ou dados pessoais no README.
